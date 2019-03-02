@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.399.0"
+  },
+  "name": "AnalysisFaces-Face-Recognition-Service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TwoFace",
+  "license": "ISC"
+}
